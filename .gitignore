@@ -1,0 +1,33 @@
+# Keil MDK-ARM build outputs
+*.o
+*.d
+*.crf
+*.htm
+*.lnp
+*.map
+*.lst
+*.hex
+*.bin
+*.axf
+*.elf
+*.iex
+
+# Keil project generated
+*.uvoptx
+*.uvguix.*
+JLinkLog.txt
+RTE/
+
+# Keil lists & objects output
+Listings/
+Objects/
+DebugConfig/
+
+# IDE temp files
+*.bak
+*.scvd
+*.admin
+
+# OS files
+.DS_Store
+Thumbs.db
